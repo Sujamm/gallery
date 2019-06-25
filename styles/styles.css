@@ -48,19 +48,75 @@
 }
 
 .image1-d {
-    background-image: url('../images/img-d-1.jpg');
+    background-image: url('../images/london-1.png');
 }
 
 .image2-d {
-    background-image: url('../images/img-d-2.jpg');
+    background-image: url('../images/rome-1.png');
+}
+
+.image3-d {
+    background-image: url('../images/lake-1.png');
+}
+
+.image4-d {
+    background-image: url('../images/bruges-1.png');
+}
+
+.image5-d {
+    background-image: url('../images/Ireland-1.png');
+}
+
+.image6-d {
+    background-image: url('../images/moscow-1.png');
+}
+
+.image7-d {
+    background-image: url('../images/paris-1.png');
+}
+
+.image8-d {
+    background-image: url('../images/cirq-1.png');
+}
+
+.image9-d {
+    background-image: url('../images/china-1.png');
 }
 
 .image1-d:hover {
-    background-image: url('../images/img-r-1.png');
+    background-image: url('../images/london.jpg');
 }
 
 .image2-d:hover {
-    background-image: url('../images/img-r-2.png');
+    background-image: url('../images/rome.jpg');
+}
+
+.image3-d:hover {
+    background-image: url('../images/lake-braies.jpg');
+}
+
+.image4-d:hover {
+    background-image: url('../images/belfry-tower-bruges.jpg');
+}
+
+.image5-d:hover {
+    background-image: url('../images/ireland.jpg');
+}
+
+.image6-d:hover {
+    background-image: url('../images/moscow.jpg');
+}
+
+.image7-d:hover {
+    background-image: url('../images/paris.jpg');
+}
+
+.image8-d:hover {
+    background-image: url('../images/saint-cirq-lapopie.jpg');
+}
+
+.image9-d:hover {
+    background-image: url('../images/china.jpg');
 }
 
 p {
